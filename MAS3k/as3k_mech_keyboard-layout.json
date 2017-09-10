@@ -1,0 +1,176 @@
+[
+  {
+    "backcolor": "#008080",
+    "name": "AlphaSmart 3000 Mechanical Layout",
+    "author": "Joe Yamine",
+    "pcb": true
+  },
+  [
+    {
+      "c": "#808080",
+      "t": "#ffffff",
+      "a": 7,
+      "f": 2,
+      "w": 1.25
+    },
+    "on/off",
+    "file 1",
+    "file 2",
+    "file 3",
+    "file 4",
+    "file 5",
+    "file 6",
+    "file 7",
+    "file 8",
+    "print",
+    "spell check",
+    "clear file",
+    "applets",
+    {
+      "w": 1.25
+    },
+    "send"
+  ],
+  [
+    {
+      "c": "#008080",
+      "a": 4,
+      "f": 4
+    },
+    "~\n`",
+    "!\n1",
+    "@\n2",
+    "#\n3",
+    "$\n4",
+    "%\n5",
+    "^\n6",
+    "&\n7",
+    "*\n8",
+    "(\n9",
+    ")\n0",
+    "_\n-",
+    "+\n=",
+    {
+      "c": "#808080",
+      "w": 1.5
+    },
+    "back\n<i class='kb kb-Arrows-Left'></i>\n\n\n\n\nspace"
+  ],
+  [
+    {
+      "c": "#008080",
+      "w": 1.5
+    },
+    "tab\n\n\n\n\n\n<i class='kb kb-Line-Start-End'></i>",
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    "{\n[",
+    "}\n]",
+    "|\n\\"
+  ],
+  [
+    {
+      "c": "#808080",
+      "w": 1.25
+    },
+    "caps lock",
+    {
+      "x": 0.5,
+      "c": "#008080"
+    },
+    "A",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    ":\n;",
+    "\"\n'",
+    {
+      "c": "#808080",
+      "w": 1.75
+    },
+    "enter\n\n\n\n\n\n<i class='kb kb-Return-2'></i>"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "shift\n\n\n\n\n\n<i class='kb kb-Arrows-Up'></i>",
+    {
+      "c": "#008080"
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    {
+      "c": "#808080",
+      "w": 2.25
+    },
+    "shift\n\n\n\n\n\n<i class='kb kb-Arrows-Up'></i>"
+  ],
+  [
+    "ctrl",
+    "alt\noption",
+    "<i class='kb kb-Unicode-Command-3'></i>",
+    {
+      "c": "#008080"
+    },
+    "find",
+    "home",
+    "end",
+    {
+      "c": "#808080",
+      "a": 7,
+      "f": 3,
+      "w": 2
+    },
+    "",
+    {
+      "a": 4,
+      "f": 4,
+      "w": 1.25
+    },
+    "esc",
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "alt\noption",
+    {
+      "c": "#008080",
+      "a": 6,
+      "f": 7
+    },
+    "<i class='kb kb-Arrows-Left'></i>",
+    {
+      "a": 5,
+      "f": 5
+    },
+    "<i class='kb kb-Arrows-Up'></i>",
+    "\n<i class='kb kb-Arrows-Down'></i>",
+    {
+      "a": 6,
+      "f": 7
+    },
+    "\n\n<i class='kb kb-Arrows-Right'></i>"
+  ]
+]
